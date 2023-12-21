@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hajring_task/static/css/main.46a86eb6.css",
-    "main.js": "/hajring_task/static/js/main.38af06a2.js",
+    "main.js": "/hajring_task/static/js/main.2d3e9487.js",
     "static/js/787.6fae188f.chunk.js": "/hajring_task/static/js/787.6fae188f.chunk.js",
     "index.html": "/hajring_task/index.html",
     "main.46a86eb6.css.map": "/hajring_task/static/css/main.46a86eb6.css.map",
-    "main.38af06a2.js.map": "/hajring_task/static/js/main.38af06a2.js.map",
+    "main.2d3e9487.js.map": "/hajring_task/static/js/main.2d3e9487.js.map",
     "787.6fae188f.chunk.js.map": "/hajring_task/static/js/787.6fae188f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46a86eb6.css",
-    "static/js/main.38af06a2.js"
+    "static/js/main.2d3e9487.js"
   ]
 }
